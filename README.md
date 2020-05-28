@@ -2,6 +2,10 @@
 
 <a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Boston&date=2020-05-28&lane=A">Valid Links</a>
 
+<a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Ottawa&date=2020-05-28&lane=A">Canada Valid Links</a>
+
+<a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Ottawa&date=2020-05-28">Canada inValid Links</a>
+
 <a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Boston&date=2020-05-28&lane=AA">Search result not found</a>
 
 
