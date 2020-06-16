@@ -1,14 +1,14 @@
 # DeepLink
 
-hyundaidealerdirect.test1.adesa.com
-subarusold.test1.adesa.com
-landroverprivatelabel.test1.adesa.com
-mazdavehicleremarketing.test1.adesa.com
-jaguarprivatelabel.test1.adesa.com
-allyvehiclereturnmanager.test1.adesa.com
-vwtdidirect.test1.adesa.com
-auditdidirect.test1.adesa.com
-hfcarsales.test1.adesa.com
+<a href="https://hyundaidealerdirect.test1.adesa.com">
+<a href="https://subarusold.test1.adesa.com">
+<a href="https://landroverprivatelabel.test1.adesa.com">
+<a href="https://mazdavehicleremarketing.test1.adesa.com">
+<a href="https://jaguarprivatelabel.test1.adesa.com">
+<a href="https://allyvehiclereturnmanager.test1.adesa.com">
+<a href="https://vwtdidirect.test1.adesa.com">
+<a href="https://auditdidirect.test1.adesa.com">
+<a href="https://hfcarsales.test1.adesa.com">
 
 
 
