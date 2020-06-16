@@ -1,5 +1,18 @@
 # DeepLink
 
+hyundaidealerdirect.test1.adesa.com
+subarusold.test1.adesa.com
+landroverprivatelabel.test1.adesa.com
+mazdavehicleremarketing.test1.adesa.com
+jaguarprivatelabel.test1.adesa.com
+allyvehiclereturnmanager.test1.adesa.com
+vwtdidirect.test1.adesa.com
+auditdidirect.test1.adesa.com
+hfcarsales.test1.adesa.com
+
+
+
+
 <a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Boston&date=2020-05-28&lane=A">Valid Links</a>
 
 <a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Ottawa&date=2020-05-28&lane=A">Canada Valid Links</a>
