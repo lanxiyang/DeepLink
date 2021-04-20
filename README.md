@@ -1,6 +1,6 @@
 # DeepLink
 
-<a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%Seattle&date=2021-04-20&lane=B">Valid Links</a>
+<a href="https://adesamkpl.test-app.link/runlistevent?location=ADESA%20Seattle&date=2021-04-20&lane=B">Valid Links</a>
 
 <a href="https://hyundaidealerdirect.uat1.adesa.com">PL Links</a>
 
